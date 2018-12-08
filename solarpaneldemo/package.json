@@ -1,0 +1,11 @@
+{
+  "name": "solarpanel",
+  "version": "10.14.1",
+  "description": "solar panel demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
