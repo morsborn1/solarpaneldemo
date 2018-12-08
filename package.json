@@ -1,0 +1,15 @@
+{
+  "name": "solarpanel",
+  "version": "10.14.1",
+  "description": "solar panel demo",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js",
+  },
+  "author": "",
+  "license": "ISC"
+ "engines": {
+    "node": "10.14.11"
+  }
+}
+
